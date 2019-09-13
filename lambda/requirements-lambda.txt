@@ -1,0 +1,2 @@
+# lambda doesn't need boto3
+requests
